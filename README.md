@@ -16,7 +16,7 @@ Traffic lights are lights that control the flow of traffic. This project was cre
 | Code Editor | Arduino IDE |
 | Driver | CP210X USB Driver |
 | Programming Language | C/C++ |
-| Actuators | Red LED (x1), Yellow LED (x1), Green LED (x1) |
+| Actuators | • Red LED (x1)<br>• Yellow LED (x1)<br>• Green LED (x1) |
 | Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Breadboard (x1)<br>• Resistors (x3) |
 
 <br><br>
