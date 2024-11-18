@@ -16,7 +16,7 @@ Lampu lalu lintas adalah lampu yang mengendalikan arus lalu lintas. Proyek ini d
 | Editor Kode | Arduino IDE |
 | Driver | CP210X USB Driver |
 | Bahasa Pemrograman | C/C++ |
-| Aktuator | • LED Merah (x1)<br>• LED Kuning (x1)<br>• LED Green (x1) |
+| Aktuator | • LED Merah (x1)<br>• LED Kuning (x1)<br>• LED Hijau (x1) |
 | Komponen Lainnya | • Kabel USB Mikro - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Breadboard (x1)<br>• Resistor (x3) |
 
 <br><br>
@@ -130,7 +130,7 @@ Lampu lalu lintas adalah lampu yang mengendalikan arus lalu lintas. Proyek ini d
 
 <br><br>
 
-## Highlights
+## Sorotan
 <table>
 <tr>
 <th width="840" colspan="3">Tampilan Lampu Lalu Lintas</th>
