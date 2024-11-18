@@ -1,6 +1,6 @@
 const byte RED_LED = 4;
-const byte YELLOW_LED = 0;
-const byte GREEN_LED = 2;
+const byte YELLOW_LED = 2;
+const byte GREEN_LED = 15;
 
 byte RED_COUNT, YELLOW_COUNT, GREEN_COUNT;
 
