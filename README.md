@@ -136,9 +136,9 @@ Traffic lights are lights that control the flow of traffic. This project was cre
 <th width="840" colspan="3">Traffic Light Display</th>
 </tr>
 <tr>
-<td width="280"><img src="Assets/Documentation/Experiment/View-1.jpg" alt="red_condition"></td>
-<td width="280"><img src="Assets/Documentation/Experiment/View-2.jpg" alt="yellow_condition"></td>
-<td width="280"><img src="Assets/Documentation/Experiment/View-3.jpg" alt="green_condition"></td>
+<td width="280"><img src="Assets/View-1.jpg" alt="red_condition"></td>
+<td width="280"><img src="Assets/View-2.jpg" alt="yellow_condition"></td>
+<td width="280"><img src="Assets/View-3.jpg" alt="green_condition"></td>
 </tr>
 </table>
 
